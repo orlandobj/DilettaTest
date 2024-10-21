@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "243843229140",
+    "project_id": "diletta-teste-tecnico",
+    "storage_bucket": "diletta-teste-tecnico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243843229140:android:6746745de533392e5b6241",
+        "android_client_info": {
+          "package_name": "com.teste.dilleta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNvc_jx1g3hekvqTw5U62yz2KBv9GtJl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243843229140:android:b7d631f6bb5d58a95b6241",
+        "android_client_info": {
+          "package_name": "com.teste_tecnico.dilleta_teste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNvc_jx1g3hekvqTw5U62yz2KBv9GtJl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
